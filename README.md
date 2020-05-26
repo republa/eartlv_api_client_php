@@ -1,2 +1,2 @@
-# eartlv_api_client_php
-e-art.lv client API for PHP7+
+# e-art.lv client API for PHP7+
+placeholder for PHP client
